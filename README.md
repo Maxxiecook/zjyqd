@@ -6,7 +6,8 @@
 [示例网站](http://zjy.feidanyl.top)
 
 
-使用方法
+使用方法：
+
 1.创建数据库，创建user表，表里创建user_id（varchar类型，自动增长）、user_name(varchar类型)、user_pwd(varchar类型)、user_qq(varchar类型)、user_sckey(varchar类型)
 ![](https://tu.yaohuo.me/imgs/2021/02/709d72da6dd4b04f.png)
 2.将源码上传到网站的根目录
